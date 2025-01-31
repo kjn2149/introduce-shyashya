@@ -8,7 +8,7 @@ Hello I'm shya shya
 
 ## 📌 진행 중인 프로젝트
 - 🚀 [Flutter Todo App](https://github.com/내아이디/todo-app)
-- 📱 [My Portfolio Website](https://github.com/seojinkim112211/portfolio)
+- 📱 [My Portfolio Website](https://github.com/kjn2149/portfolio)
 
 ## 📫 Contact Me
 - Email: kjn2149@naver.com
