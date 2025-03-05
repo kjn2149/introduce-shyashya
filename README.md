@@ -1,7 +1,7 @@
 # introduce-shyashya
-Hello I'm shya shya 
+Hello I'm sha sha 
 
-# 👋 Hi, I'm [shya shya]!
+# 👋 Hi, I'm [sha sha]!
 플러터 개발을 공부하며, 프로젝트를 공유하고 있습니다.
 📍 목표: 1년 안에 취업!
 💡 관심 기술: Flutter, Firebase, GitHub 활용
